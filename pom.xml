@@ -203,7 +203,7 @@
 	</dependencyManagement>
  
 	<build>
-		<finalName>tap-api</finalName>
+		<finalName>vendor-service</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
